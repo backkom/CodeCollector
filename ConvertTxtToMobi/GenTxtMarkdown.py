@@ -37,4 +37,4 @@ def GenMarkDown(path, suffix, outputFileName):
 
 if __name__ == '__main__':
     #GenMarkDown('./poe', ['.cs'], 'poe.txt')
-	print("python GenTxtMarkdown.py ./dir, ['.cs'], 'ouput.txt'")
+    print("python GenTxtMarkdown.py ./dir, ['.cs'], 'ouput.txt'")
