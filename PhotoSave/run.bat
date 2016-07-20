@@ -1,0 +1,2 @@
+python PhotoSave.py .
+pause
