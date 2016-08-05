@@ -1,0 +1,4 @@
+
+sudo aria2c --conf-path=/home/pi/.aria2/aria2.conf -D
+svnserve -d -r /storage/svn/
+tightvncservr
